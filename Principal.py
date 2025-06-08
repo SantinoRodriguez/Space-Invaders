@@ -1,9 +1,9 @@
 import pygame
 import sys
 import os
-from Space_Invaders_Main import pantalla_inicio, menu_principal
-from Space_Invaders import SpaceInvaders
-import Space_Invaders_2 as nm
+from Space_Invaders_Post_Menu import pantalla_inicio, menu_principal
+from Space_Invaders_Single import SpaceInvaders
+import Space_Invaders_Multijugador as nm
 import config
 
 # Configurar ventana centrada
