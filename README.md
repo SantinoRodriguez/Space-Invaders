@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene una versión completamente funcional y personalizada del icónico videojuego **Space Invaders**, reprogramado desde cero en **Python** utilizando la biblioteca **Pygame**. El juego no solo reproduce el espíritu del original, sino que agrega funcionalidades nuevas como:  
 - Modo multijugador (2 jugadores cooperativos)  
@@ -17,11 +17,11 @@ Este repositorio contiene una versión completamente funcional y personalizada d
 - Sistema de vidas, puntuación y sonidos personalizados  
 - Controles redefinibles y archivos de configuración persistente
 
-🧠 La lógica del juego, la interfaz gráfica, la detección de colisiones y los comportamientos de los enemigos fueron cuidadosamente diseñados para ofrecer una experiencia nostálgica y moderna al mismo tiempo.
+La lógica del juego, la interfaz gráfica, la detección de colisiones y los comportamientos de los enemigos fueron cuidadosamente diseñados para ofrecer una experiencia nostálgica y moderna al mismo tiempo.
 
 ---
 
-## 🧩 Contenido del Repositorio
+## Contenido del Repositorio
 
 ```text
 📁 Space_Invaders/
